@@ -37,6 +37,10 @@ a{
     color: inherit;
 }
 
+a:hover{
+    color: #420042;
+}
+
 img{
     width: 250px;
     padding: 20px;
